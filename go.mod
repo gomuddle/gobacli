@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/gomuddle/goba v0.0.0-20210924204917-e2bdb02cdf6d // indirect
-	github.com/gomuddle/gobaclient v0.0.0-20210926122441-2bb3b076a68e // indirect
+	github.com/gomuddle/gobaclient v0.0.0-20210926221913-636df6d1b484 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/mattn/go-colorable v0.1.10 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
